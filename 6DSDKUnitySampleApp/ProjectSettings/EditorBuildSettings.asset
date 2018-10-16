@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ScenePicker.unity
+    guid: 0b505476839c84ec0a0f7572a91eaa02
+  - enabled: 1
+    path: Assets/Scenes/BasicSample.unity
+    guid: 4a6269883496b4c608d506a5039a1caf
+  - enabled: 1
+    path: Assets/Scenes/DrawingSample.unity
+    guid: 7fd44784db10944a3956d0410f121cee
+  - enabled: 1
+    path: Assets/Scenes/MeshingSample.unity
+    guid: d349145b3f7f9460fa4f1436ccd7ece6
+  - enabled: 1
+    path: Assets/Scenes/BallPitSample.unity
+    guid: d46f404be4cd54e338ec7112070e339d
+  - enabled: 1
+    path: Assets/Scenes/DrawingSamplePhoton.unity
+    guid: 2b5fb6cf94e5f49698b1d7890fd9ba4f
+  m_configObjects: {}

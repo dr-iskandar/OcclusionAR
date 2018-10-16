@@ -1,0 +1,9 @@
+Icons CC 3.0 BY Google Material Design
+https://www.flaticon.com/packs/material-design
+
+hide-mesh.png
+is-client.png
+is-host.png
+load-from-ar-cloud.png
+save-to-ar-cloud.png
+show-mesh.png
